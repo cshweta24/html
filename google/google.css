@@ -1,0 +1,113 @@
+.input1{
+   float: right;
+   font-size: 10px;
+   letter-spacing: 0.05px;
+   padding: 10px;
+
+}
+
+
+.nav{
+
+list-style-type:none;
+float: right;
+
+}
+
+li{
+    display: inline;
+padding: 10px;
+
+}
+
+ .sign{
+    height: 30px;
+    width: 75px;
+    /* padding: 10px; */
+   /* margin-bottom: 10px; */
+   border: 1px solid #245097;
+   color:#fff;
+   background-color:  rgb(66, 133, 244);
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+.side{
+    text-align: center;
+}
+
+.main{
+    padding-top: 180px;
+  
+}
+
+.img
+{
+    float: right;
+   margin-right: 180px;
+}
+
+.get{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.g1{
+   
+   height: 25px;
+   width: 500px;
+ 
+  display: inline-block;
+}
+
+  
+
+.d1{
+    height: 35px;
+    width: 150px;
+    background-color: #f2f2f2;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5F6368;
+    border:1px solid #f2f2f2;
+    cursor: pointer;
+}
+
+.let{
+    font-size: 13px;
+    display: inline;
+   padding: 0.3px;
+   margin: 0;
+   list-style-type: none;
+}
+
+.let1
+{
+
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.let2
+{
+
+color:  rgb(84,146,182);
+font-family: Arial, Helvetica, sans-serif;
+word-spacing: 1px;
+
+}
+.let2:hover{
+    cursor: pointer;
+    text-decoration: underline;
+} 
+/* .btn1{
+
+    height: 35px;
+    width: 90px;
+    float: right;
+
+} */
+a{
+    text-decoration: none;
+}
+

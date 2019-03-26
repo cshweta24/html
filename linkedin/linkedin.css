@@ -1,0 +1,184 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.control {
+
+    background-color:#283e4a;
+    height:50px;
+    width:100%;
+}
+
+
+.body {
+    background-size:50% 50%;
+  
+    background-repeat: no-repeat; 
+
+}
+
+ .control h1{
+    color: #fff;
+    font-size: 25px;
+    padding: 0;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.05;
+    margin-left: 100px;
+    margin-top: 10px;
+  
+} 
+
+.login {
+float: right;
+margin-right: 300px;
+margin-top: 10px;
+margin: 0;
+padding: 0;
+
+}
+
+.input{
+border:none;
+  height: 25px;      
+width: 170px;
+    padding: 2px;
+    letter-spacing: 0.05px;
+border: 1px solid #b3b6b9;
+background: #f3f6f8;
+display: inline-block;
+cursor: pointer;
+
+}
+
+.btn {
+    
+    height:29px;
+    width:90px;
+    background-color:#283e4a;
+     border-color: #fff;  
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block; 
+    color: white;
+    
+}
+
+
+/* .forget{
+ 
+     font-size: 12px;
+    color: #fff;
+    width: 164px; 
+    
+} */
+
+.forget {
+   
+    
+    font-size: 12px;
+    color: #fff;
+    width: 164px;
+    /* margin: 0px 10px 0px 20px; */
+}
+
+.forget:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.form{
+   
+    float: right;
+    margin-right: 470px; 
+    /* background-color: #fff; */
+   background-color:rgb(216, 227, 238);
+    height: 500px;
+    width:400px;
+    
+}
+
+.title{
+   text-align: center;
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif; 
+   padding:13px;
+}
+
+.subtitle{
+    text-align: center;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgba(0,0,0,0.9);
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+    
+}
+
+
+.get{
+  
+    /* margin-top: 30px; */
+    padding: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: rgba(0,0,0,0.15); */
+    height: auto;
+}
+
+
+.first{
+  
+    height:25px;
+    width:300px;
+    border: 1px solid #b3b6b9;
+    margin-top:5px ;
+    
+}
+
+
+.sub{
+    text-align: center;
+    display:inline-block;
+    font-size: 12px;
+    color:rgba(0,0,0,0.6);
+   
+
+}
+
+.data {
+    display: inline-block;
+    font-size: 12px;
+    color:rgba(0,0,0,0.6);
+  
+}
+
+.data:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.btn1
+{
+    
+    
+        height:35px;
+        width:300px;
+        background-color:#0f1b88;
+         border-color: #fff;  
+        font-family: Arial, Helvetica, sans-serif;
+        display: inline-block; 
+        color: white;
+        
+    
+    
+}
+
+
+.join{
+    text-align: center;
+}
+.formHead{
+    background-color: #EDF0F3;
+}
